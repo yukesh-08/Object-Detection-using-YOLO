@@ -17,10 +17,15 @@ Enable customization for different datasets and real-world applications.
 ### **3. Technologies Used**
 
 **Programming Language:** Python
+
 **Deep Learning Framework:** PyTorch
+
 **Object Detection Model:** YOLOv8
+
 **Dataset:** POCO Dataset
+
 **Computer Vision Library:** OpenCV
+
 **Hardware Requirements:** GPU (Recommended for faster processing)
 
 ### **4. Implementation Details**
