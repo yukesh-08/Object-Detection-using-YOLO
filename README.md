@@ -34,8 +34,13 @@ Users can terminate real-time detection by pressing 'q'.
 ### **5. Applications**
 
 This real-time object detection system can be applied in:
+
 ✅ **Surveillance & Security** – Automated monitoring and threat detection.
+
 ✅ **Autonomous Vehicles** – Object tracking and obstacle avoidance.
+
 ✅ **Retail Analytics** – Customer behavior tracking in stores.
+
 ✅ **Smart Cities** – Traffic monitoring and crowd analysis.
+
 ✅ **Augmented Reality (AR)** – Enhancing real-world interaction with AI.
